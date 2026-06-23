@@ -299,7 +299,7 @@ parts:
   # as it just renders an apache2 configuration file. It should
   # be considered a lower-level utility compared to `update_ood_portal`
   ood-portal-generator:
-    source: "https://github.com/charmed-hpc/ood-portal-generator.git"
+    source: "https://github.com/canonical/ood-portal-generator.git"
     plugin: go
     build-snaps:
       - go/1.22/stable
