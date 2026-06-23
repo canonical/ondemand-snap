@@ -10,9 +10,9 @@ you can use this guide for specific information on contributing to the `ondemand
 Have any questions? Feel free to ask them in the [Ubuntu High-Performance Computing Matrix chat]
 or on [GitHub Discussions].
 
-[Charmed HPC project's contributing guide]: https://github.com/charmed-hpc/docs/blob/main/CONTRIBUTING.md
+[Charmed HPC project's contributing guide]: https://github.com/canonical/charmed-hpc-docs/blob/main/CONTRIBUTING.md
 [Ubuntu High-Performance Computing Matrix chat]: https://matrix.to/#/#hpc:ubuntu.com
-[GitHub Discussions]: https://github.com/orgs/charmed-hpc/discussions/categories/support
+[GitHub Discussions]: https://github.com/orgs/canonical/discussions/categories/support
 
 ## Hacking on `ondemand-snap`
 
